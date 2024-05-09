@@ -5,20 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b307f6f2-83e3-4766-a8d1-1deb1ac67c2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my_person_project/fpages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_person_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_person_project/my_person_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/my_person_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_person_project/my_person_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/my_person_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2fyFYGayItkwrBT8FRf63bBQNpJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,8 +42,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Alisa/learn/pythonProject"
   }
 }]]></component>
   <component name="SharedIndexes">
