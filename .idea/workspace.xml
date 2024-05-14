@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b307f6f2-83e3-4766-a8d1-1deb1ac67c2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_person_project/fpages/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/double_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/inc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_person_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_person_project/my_person_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/my_person_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_person_project/my_person_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/my_person_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_person_project/temlates/flatpages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_person_project/temlates/flatpages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_person_project/temlates/flatpages/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_person_project/temlates/flatpages/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,14 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Alisa/learn/pythonProject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alisa/learn/pythonProject&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
